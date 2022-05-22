@@ -1,6 +1,11 @@
 # NAME: BT
 # AUTHOR: backspcecat
 # REPO: https://github.com/backspcecat/My-Clash
-# UPDATED: 2021-09-03
+# UPDATED: 2022-05-22
 
 PROCESS-NAME,qbittorrent.exe
+
+#Tracker
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
